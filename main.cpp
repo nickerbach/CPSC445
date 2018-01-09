@@ -6,7 +6,10 @@
 #include <iterator>
 #include <cstring>
 #include <algorithm>
-
+#include <cstdio>
+#include <cstddef>
+#include <numeric>
+#include <functional>
 using namespace std;
 
 int main()
