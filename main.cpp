@@ -21,7 +21,7 @@ int main()
         vector<char *> arguments; // Arguments provided by the user, which will be parsed from userData
 
         // Prompts user to input commands
-        cout << "\nEnter the command and arguments you want to run: " << endl;
+        cout << "\nEnter the command and arguments you want to run, to exit type exit: " << endl;
         // Get the full user input and store it in a variable
         getline(cin, userData); // The entire user input (all on one line)
 
